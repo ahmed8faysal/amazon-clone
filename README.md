@@ -14,4 +14,4 @@ This project is a basic clone of the Amazon website, built using only HTML and C
 - CSS3 for styling and layout
 
 **How** **to** **View**
-To view the project, download or clone this repository.
+- Go to this link: 
