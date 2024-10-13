@@ -14,4 +14,4 @@ This project is a basic clone of the Amazon website, built using only HTML and C
 - CSS3 for styling and layout
 
 **How** **to** **View**
-- Go to this link: 
+- Go to this link: https://ahmed8faysal.github.io/amazon-clone/
